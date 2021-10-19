@@ -130,7 +130,7 @@ export default function Home() {
               className={styles.input}
               type="number"
               min="8"
-              max="50"
+              max="30"
               value={len}
               onChange={(e) => handleLength(e)}
               style={
