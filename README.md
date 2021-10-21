@@ -8,7 +8,7 @@ Get the code by either cloning this repository using git
 git clone https://github.com/tirmazi2/next-passgen.git
 ```
 
-... or [downloading source code](https://github.com/tirmazi2/next-passgen/archive/refs/heads/main.zip) code as a zip archive.
+... OR [downloading source code](https://github.com/tirmazi2/next-passgen/archive/refs/heads/main.zip) code as a zip archive.
 
 Once downloaded, open the terminal in the project directory, and install dependencies with:
 
